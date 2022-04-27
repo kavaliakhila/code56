@@ -16,4 +16,4 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    echo "your batchno is $(batchno)"
+    echo "your batchno is $(vmpassword)"
